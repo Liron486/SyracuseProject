@@ -1,0 +1,20 @@
+{
+    "First Frame" : 1,
+    "Last Frame" : 757,
+    "MinX" : -100,
+    "MaxX" : 200,
+    "MinY" : -100,
+    "MaxY" : 200,
+    "MinZ" : -100,
+    "MaxZ" : 200,
+    "Closeness" : 0.5,
+    "View Point" : "Front",
+    "Trolley Threshold" : 4,
+    "Jib Threshold" : 7,
+    "Hook Threshold" : 4,
+    "Time Between Frames" : 0.2,
+    "Batch Size" : 2,
+    "Slicing" : true,
+    "Clustering" : true,
+    "Inspection" : true
+}
